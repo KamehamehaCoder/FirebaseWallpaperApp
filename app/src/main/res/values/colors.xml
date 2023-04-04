@@ -1,0 +1,22 @@
+<resources>
+    <!-- Primary brand color. -->
+    <color name="colorPrimary">#FF6F00</color>
+    <color name="colorPrimaryVariant">#FFA040</color>
+    <color name="colorOnPrimary">#000000</color>
+
+    <!-- Secondary brand color. -->
+    <color name="colorSecondary">#43B581</color>
+    <color name="colorSecondaryVariant">#2E8B57</color>
+    <color name="colorOnSecondary">#FFFFFF</color>
+
+    <!-- Status bar color. -->
+    <color name="colorStatusBar">#F2F3F5</color>
+
+    <!-- Background color. -->
+    <color name="colorBackground">#FFFFFF</color>
+    <color name="colorOnBackground">#000000</color>
+
+    <!-- Text color. -->
+    <color name="colorText">#000000</color>
+    <color name="colorSecondaryText">#8E9297</color>
+</resources>

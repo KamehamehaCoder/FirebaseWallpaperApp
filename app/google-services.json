@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "814624313941",
+    "project_id": "ryuken-wallpapers",
+    "storage_bucket": "ryuken-wallpapers.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:814624313941:android:f82848491aa2bbff403adc",
+        "android_client_info": {
+          "package_name": "com.shenron.ryukenwallpapers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "814624313941-ubkqn41m1s7ucqfqud9tkpdi00ntl9rp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzSaX0gXV7KmPz5_eVAf2jhCt1mJvdyLM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "814624313941-ubkqn41m1s7ucqfqud9tkpdi00ntl9rp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
